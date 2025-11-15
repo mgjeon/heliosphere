@@ -19,6 +19,10 @@
 - https://github.com/dstansby/pfsspy
 - https://github.com/sunpy/sunkit-magex
 - https://github.com/njuguoyang/magnetic_modeling_codes
+- https://github.com/antyeates1983/flhtools
+- https://github.com/Valentin-Aslanyan/UFiT
+- https://github.com/sunpy/streamtracer
+- https://github.com/sunpy/sunkit-pyvista
 - https://www.swpc.noaa.gov/products/wsa-enlil-solar-wind-prediction
 - https://ccmc.gsfc.nasa.gov/models/WSA-Enlil-at-SWPC~3/
 - https://research.reading.ac.uk/met-spate/huxt-forecast/
