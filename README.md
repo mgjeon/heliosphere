@@ -15,6 +15,7 @@
 - https://deepwiki.com/JSOC-SDP/drms
 - https://github.com/JSOC-SDP/proj
 - https://deepwiki.com/JSOC-SDP/proj/
+- https://github.com/predsci/OFT
 - https://github.com/antyeates1983/pfss
 - https://github.com/dstansby/pfsspy
 - https://github.com/sunpy/sunkit-magex
@@ -26,6 +27,8 @@
 - https://www.swpc.noaa.gov/products/wsa-enlil-solar-wind-prediction
 - https://ccmc.gsfc.nasa.gov/models/WSA-Enlil-at-SWPC~3/
 - https://research.reading.ac.uk/met-spate/huxt-forecast/
+- https://github.com/predsci/MAS
+- https://github.com/predsci/SWiG
 - https://github.com/predsci/HUX
 - https://github.com/predsci/HUX-paper3
 - https://github.com/University-of-Reading-Space-Science/HUXt
