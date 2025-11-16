@@ -10,6 +10,9 @@
 4. Heliospheric Domain: ENLIL, HUX
 
 - [Unifying the validation of ambient solar wind models](https://doi.org/10.1016/j.asr.2022.05.026)
+- https://www.swpc.noaa.gov/products/real-time-solar-wind
+- https://github.com/hapi-server/client-python
+- https://github.com/jgieseler/solarmach
 - https://gong.nso.edu/
 - https://nso.edu/data/nisp-data/synoptic-maps/
 - http://jsoc.stanford.edu/
